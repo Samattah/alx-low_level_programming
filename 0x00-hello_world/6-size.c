@@ -1,7 +1,9 @@
 #include <stdio.h>
-/** main - entry point function
+
+/**
+ * main - entry point function
  *
- * Return: (0) when success
+ * Return: 0 when success
  *
  */
 
